@@ -13,7 +13,7 @@
 }
 .Title__main{
     font-family: georgia;
-    font-size: large;
+    font-size: larger;
     margin: 15px 15px 0px ;
 }
 
@@ -27,3 +27,25 @@
     color: #49b9ea;
 }
 
+section{
+    margin: 15px;
+}
+
+.Tim{
+    
+    font-size: smaller;
+}
+
+.Marked{
+    background-color: #ffff00;
+}
+
+main ul{
+    padding: 30px 15px;
+}
+
+.Table__head{
+    background-color: #4ea0ff;
+    color: white;
+    
+}
