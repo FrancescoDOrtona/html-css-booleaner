@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Title__img{
+    background-image: url(../img/pattern.png);
+    background-repeat:repeat-x;
+    background-size: 35%;
+    background-color: #4ea0ff ;
+    padding: 3%;
+}
+.Title__main{
+    font-family: georgia;
+    font-size: large;
+    margin: 15px 15px 0px ;
+}
+
+
+.Title__autor{
+    color: #8c8c8c;
+    margin: 5px 15px;
+}
+
+.Title span{
+    color: #49b9ea;
+}
+
