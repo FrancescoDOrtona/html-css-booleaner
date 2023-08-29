@@ -50,12 +50,12 @@ main ul{
 
 .table{
     border-collapse: collapse;
+    width: 100%;
     text-align: left;
 }
 
-th, td{
-    padding: 5px;
-    width: 30%;
+.table__w-50{
+    width: 50%;
 }
 .table__head{
     background-color: #4ea0ff;
